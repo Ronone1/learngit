@@ -1,3 +1,7 @@
 
 www
-simple
+<<<<<<< HEAD
+simple and tttts
+=======
+simple and tttts
+>>>>>>> feature1
