@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-
-www
-one and two
-=======
-wwqqqq
-one and two
->>>>>>> one
+1111
